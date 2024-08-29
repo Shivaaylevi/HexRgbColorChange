@@ -1,0 +1,28 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.btn{
+    margin-left: 4%;
+    padding: 2%;
+}
+.btn button{
+    font-size: 11px;
+    padding: 4%;
+    border-radius: 8px;
+    border-style: none;
+    background-color: rgb(153, 81, 220);
+    cursor: pointer;
+    color: rgb(238, 195, 131);
+}
+.btn button:hover{
+    background-color: rgb(103, 103, 245);
+    transition: 0.8s;
+    padding: 6%;
+}
+.main{
+    align-items: center;
+    text-align: center;
+    
+}
